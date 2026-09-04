@@ -1,2 +1,5 @@
 # LTAT.02.031
-LTAT.02.031 õppeaine repositoorium, kuhu panen kõik ülesanded ja kood.
+Õppeaine "Tarkvaraarenduse ja koodihalduse alused" repositoorium, kuhu panen kõik ülesanded ja kood.
+
+# Litsents
+[MIT](https://choosealicense.com/licenses/mit/) on valitud, kuna soovin, et teised saaksid minu koodi vabalt ja ilma tingimuseta kasutada.

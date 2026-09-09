@@ -3,5 +3,3 @@
 
 # Litsents
 [MIT](https://choosealicense.com/licenses/mit/) on valitud, kuna soovin, et teised saaksid minu koodi vabalt ja ilma tingimuseta kasutada.
-
-muudan
